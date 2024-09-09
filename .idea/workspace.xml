@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8f06e61-ba4a-46ff-8199-81e98efa2461" name="Changes" comment="Linea base del proyecto">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemploo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemploo1.py" afterDir="false" />
-    </list>
+    <list default="true" id="e8f06e61-ba4a-46ff-8199-81e98efa2461" name="Changes" comment="Modificacion ejercicio 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="refactorizar_ej01" />
+        <entry key="$PROJECT_DIR$" value="refactorizar_ej02" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +30,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Ejemploo1.executor": "Run",
+    "Python.Ejemploo2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -91,11 +89,29 @@
       <option name="project" value="LOCAL" />
       <updated>1725910412544</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Modificacion ejercicio 1">
+      <option name="closed" value="true" />
+      <created>1725911618260</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725911618260</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Modificacion ejercicio 2">
+      <option name="closed" value="true" />
+      <created>1725912672706</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725912672706</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Linea base del proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Linea base del proyecto" />
+    <MESSAGE value="Modificacion ejercicio 1" />
+    <MESSAGE value="Modificacion ejercicio 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modificacion ejercicio 2" />
   </component>
 </project>
